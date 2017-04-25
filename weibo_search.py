@@ -1,5 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 
+# === 实现一个小demo ===
+
 from selenium import webdriver
 import selenium.webdriver.support.ui as ui
 from selenium.webdriver.common.action_chains import ActionChains
